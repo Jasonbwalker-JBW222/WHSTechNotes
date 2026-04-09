@@ -1,7 +1,7 @@
 # August 27, 2025
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 September 2, 2025
-# April 9 2026
+# April 9, 2026
 Explain your strategy for convincing the AI.
 
 What argument would you make? 
